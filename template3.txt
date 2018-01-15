@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+.bgimg {
+    background-image: url('https://www.talent4assure.com/images/ground.jpg');
+    max-height: 100%;
+    background-position: center;    
+}
+.center{text-align:center}
+.button{
+	border: 2px solid white;
+        padding:8px 16px;
+        vertical-align:middle;
+        text-decoration:none;
+        color:white;
+        text-align:center;
+        cursor:pointer;
+        font-family: Arial;
+        }
+.button:hover {
+    background-color: white;
+    color: #595151;
+    border: 2px solid white;
+}
+h1 {font-family:  Arial, sans-serif;
+	color: white;
+}
+hr { 
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    margin-left: 20em;
+    margin-right: 20em;   
+    border-width: 1px;
+} 
+</style>
+</head>
+<body>
+<div class="bgimg">
+<header class="center" style="padding:210px 100px">
+  <h1>Syed Muhammad Moiz</h1>
+  <hr>
+  <div >
+      <a href="https://www.w3schools.com/" class="button">Github</a>
+      <a href="https://www.w3schools.com/" class="button">LinkedIn</a>
+      <a href="https://www.w3schools.com/" class="button">Contact</a>
+  </div>
+</header>
+</div>
+</body>
+</html>
